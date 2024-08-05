@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Deena Joseph Wilson
 
-I'm passionate about Data Science. Welcome to my GitHub profile!
+I'm passionate about Data Scienc and Web Dev. Welcome to my GitHub profile!
 
 🔭 I’m currently working on NMT
 
